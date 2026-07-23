@@ -1,6 +1,6 @@
 # Data-visualization-Matplotlib
 Learning Matplotlib through hands-on practice, visualizations, and real-world data analysis projects using Python.
-# 📊 Matplotlib Practice
+# 📊 Matplotlib Practice.
 
 Welcome to my **Matplotlib Practice** repository! This repository documents my journey of learning **Matplotlib**, Python's most popular data visualization library. It contains hands-on practice, examples, exercises, and mini-projects that help transform raw data into meaningful visual insights.
 
